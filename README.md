@@ -1,7 +1,7 @@
-Authentication Application
-FrontEnd : ReactJS
-Backend : NodeJS, ExpressJS
-Database : MongoDB
+Authentication Application<br /> 
+FrontEnd : ReactJS<br /> 
+Backend : NodeJS, ExpressJS<br /> 
+Database : MongoDB<br /> 
 ![Welcome](https://user-images.githubusercontent.com/65443149/151850769-88c99e8d-8aec-4436-a0bb-5bdbaec84142.png)
 Register Yourself and verify via Email as an authentication process.
 ![SignUp](https://user-images.githubusercontent.com/65443149/151850897-b63e6d0f-d515-497f-a520-3e0bd081b411.png)
